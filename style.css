@@ -7,11 +7,30 @@ input{
 
 button{
 
-    background-color: rgb(100, 19, 175);
+    background-color: rgb(127, 39, 209);
     color: rgb(255, 255, 255);
     border-radius: 8px;
     width: 250px;
     height: 50px;
     font-size: xx-large;
     
+}
+
+header{
+
+    background-color: rgb(127, 39, 209);
+
+}
+
+p{
+
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+
+}
+
+#Ola{
+
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
 }
